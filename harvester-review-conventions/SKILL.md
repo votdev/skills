@@ -1,6 +1,9 @@
 ---
 name: harvester-review-conventions
 description: Review Harvester pull requests and code changes. The analysis is delivered in the language the user writes in; review comments are always written in English as GitHub Markdown, short and precise.
+metadata:
+  author: Volker Theile
+  email: vtheile@suse.com
 ---
 
 # Harvester Review

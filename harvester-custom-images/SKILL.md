@@ -1,6 +1,9 @@
 ---
 name: harvester-custom-images
 description: Build images and deploy them to a local running Harvester cluster.
+metadata:
+  author: Volker Theile
+  email: vtheile@suse.com
 ---
 
 # harvester-custom-images

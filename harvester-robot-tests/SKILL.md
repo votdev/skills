@@ -1,6 +1,9 @@
 ---
 name: harvester-robot-tests
 description: Set up, run, debug and extend the Robot Framework tests in harvester-tests/harvester_robot_tests against a local Harvester cluster. Covers which tests run in the CI (pr-baseline), venv, S3 backup target, LHv2 prerequisites, run.sh usage for agents, reading results, and reusing existing keywords/libs before adding new ones.
+metadata:
+  author: Volker Theile
+  email: vtheile@suse.com
 ---
 
 # harvester-robot-tests
